@@ -1,1 +1,4 @@
 pytelegrambotapi
+aiohttp
+websockets
+chardet
